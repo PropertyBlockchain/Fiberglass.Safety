@@ -4,6 +4,7 @@ sch:
 - https://pubmed.ncbi.nlm.nih.gov/?term=fiberglass+lung
 
 # Paper:
+## index:
 - [Man-made mineral fibers and interstitial lung diseases](https://pubmed.ncbi.nlm.nih.gov/24452103/)
 - [Man-made mineral fibres](https://pubmed.ncbi.nlm.nih.gov/3065211/)
 - [Exposure assessment for airborne man-made mineral fibres: the role of fibre dimensions](https://pubmed.ncbi.nlm.nih.gov/8379618/)
@@ -32,3 +33,13 @@ sch:
 - [Past exposures to airborne fibers and other potential risk factors in the European man-made mineral fiber production industry](https://pubmed.ncbi.nlm.nih.gov/3026036/)
 - [Journey to the centre of the lung. The perspective of a mineralogist on the carcinogenic effects of mineral fibres in the lungs](https://pubmed.ncbi.nlm.nih.gov/36209608/)
 - [Acute cytotoxicity of mineral fibres observed by time-lapse video microscopy](https://pubmed.ncbi.nlm.nih.gov/34953976/)
+- [Man-made mineral (vitreous) fibres: evaluations of cancer hazards by the IARC Monographs Programme](https://pubmed.ncbi.nlm.nih.gov/15288532/)
+- [Respiratory health effects of man-made vitreous (mineral) fibres](https://pubmed.ncbi.nlm.nih.gov/8666112/)
+- [Regulatory risk assessment approaches for synthetic mineral fibres](https://pubmed.ncbi.nlm.nih.gov/26253001/)
+- [Man-made vitreous fibers: an overview of studies on their biologic effects](https://pubmed.ncbi.nlm.nih.gov/3026163/)
+- [No indication that mineral wool causes mesothelioma](https://pubmed.ncbi.nlm.nih.gov/24083862/)
+- [[Chemical and physical characteristics and toxicology of man-made mineral fibers]](https://pubmed.ncbi.nlm.nih.gov/10339953/)
+- [An evaluation of the risks of lung cancer and mesothelioma from exposure to amphibole cleavage fragments](https://pubmed.ncbi.nlm.nih.gov/18396365/)
+
+## list: Top
+- [Man-made vitreous fibers: an overview of studies on their biologic effects](https://pubmed.ncbi.nlm.nih.gov/3026163/)
