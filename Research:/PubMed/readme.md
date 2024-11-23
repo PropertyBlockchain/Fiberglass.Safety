@@ -45,6 +45,7 @@ sch:
 - [Respiratory health in workers exposed to man-made vitreous fibers](https://pubmed.ncbi.nlm.nih.gov/6307098/)
 - [Health effects of synthetic vitreous fibers](https://pubmed.ncbi.nlm.nih.gov/1511557/)
 - [Contributions to the IARC (International Agency for Research on Cancer) study on mortality and cancer incidence among man-made mineral fiber production workers](https://pubmed.ncbi.nlm.nih.gov/3026037/)
+- [Incidence of cancer in the mineral-wool producing industry in Norway](https://pubmed.ncbi.nlm.nih.gov/3026038/)
 
 ## list: Top
 - [Man-made vitreous fibers: an overview of studies on their biologic effects](https://pubmed.ncbi.nlm.nih.gov/3026163/)
