@@ -40,6 +40,11 @@ sch:
 - [No indication that mineral wool causes mesothelioma](https://pubmed.ncbi.nlm.nih.gov/24083862/)
 - [[Chemical and physical characteristics and toxicology of man-made mineral fibers]](https://pubmed.ncbi.nlm.nih.gov/10339953/)
 - [An evaluation of the risks of lung cancer and mesothelioma from exposure to amphibole cleavage fragments](https://pubmed.ncbi.nlm.nih.gov/18396365/)
+- https://pubmed.ncbi.nlm.nih.gov/6307098/
+- [Man-made mineral (vitreous) fibres: evaluations of cancer hazards by the IARC Monographs Programme](https://pubmed.ncbi.nlm.nih.gov/15288532/)
+- [Respiratory health in workers exposed to man-made vitreous fibers](https://pubmed.ncbi.nlm.nih.gov/6307098/)
+- [Health effects of synthetic vitreous fibers](https://pubmed.ncbi.nlm.nih.gov/1511557/)
+- [Contributions to the IARC (International Agency for Research on Cancer) study on mortality and cancer incidence among man-made mineral fiber production workers](https://pubmed.ncbi.nlm.nih.gov/3026037/)
 
 ## list: Top
 - [Man-made vitreous fibers: an overview of studies on their biologic effects](https://pubmed.ncbi.nlm.nih.gov/3026163/)
