@@ -31,3 +31,4 @@ sch:
 - [Environmental surveys in the European man-made mineral fiber production industry](https://pubmed.ncbi.nlm.nih.gov/3026035/)
 - [Past exposures to airborne fibers and other potential risk factors in the European man-made mineral fiber production industry](https://pubmed.ncbi.nlm.nih.gov/3026036/)
 - [Journey to the centre of the lung. The perspective of a mineralogist on the carcinogenic effects of mineral fibres in the lungs](https://pubmed.ncbi.nlm.nih.gov/36209608/)
+- [Acute cytotoxicity of mineral fibres observed by time-lapse video microscopy](https://pubmed.ncbi.nlm.nih.gov/34953976/)
